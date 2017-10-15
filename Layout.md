@@ -5,7 +5,6 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="StyleSheet.css" type="text/css" />
-    <title>Insert Name Here</title>
 </head>
 <body>
     <header>
