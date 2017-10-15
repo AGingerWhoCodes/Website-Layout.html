@@ -1,0 +1,87 @@
+/*Add some CSS here*/
+
+
+body {
+    background-color: #f4f4f4;
+    font: 15px/1.500 Arial, Helvetica,sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+/*Global*/
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/*Header*/
+header{
+    min-height:70px;
+    background: #35434a;
+    color: #ffffff;
+    padding-top: 30px;
+    border-bottom: #e8491d 3px solid;
+}
+header a{
+    color: #ffffff;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-size: 16px;
+}
+header ul{
+    margin: 0;
+    padding: 0
+}
+
+header li{
+    float:left;
+    display: inline;
+    padding: 0px 20px 0px 20px;
+}
+
+header #Name{
+    float: left;
+}
+
+header #Name h1{
+    margin: 0;
+}
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #e8491d;
+    text-align:center;
+    font-size: 15px;
+}
+
+/*Id's for sections*/
+#1 h1 {
+   font-weight:bold;
+   text-align:left;
+}
+
+#2 h1 {
+    font-weight: bold;
+    text-align: right;
+}
+
+#1 p{
+    text-align: left;
+}
+
+#2 p{
+    text-align: right;
+}
+
+#1{
+    float:left;
+}
+
+#2 {
+    float: right;
+}
